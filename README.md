@@ -167,6 +167,6 @@ This project is for educational purposes only. Ensure you have the right to use 
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Talha Yousaf - muhammadtalhayousaf3@gmail.com
 
-Project Link: [https://github.com/yourusername/ai-news-video-generator](https://github.com/yourusername/ai-news-video-generator)
+Project Link: [https://github.com/talha307841/ground_news.git](https://github.com/talha307841/ground_news.git)
