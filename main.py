@@ -4,6 +4,8 @@ from script_generator import ScriptGenerator
 from audio_generator import AudioGenerator
 from video_generator import VideoGenerator
 import logging
+import json
+import os
 
 def main():
     # Set up logging
