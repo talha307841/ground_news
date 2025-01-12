@@ -99,6 +99,6 @@ class VideoGenerator:
             return final_video
             
         except Exception as e:
-            logging.error(f"Error in video generation: {e}")
+            print(f"Error in video generation: {e}")
             self.cleanup()
             raise

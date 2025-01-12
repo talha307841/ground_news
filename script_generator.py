@@ -36,5 +36,5 @@ class ScriptGenerator:
             return response['choices'][0]['message']['content'].strip()
             
         except Exception as e:
-            logging.error(f"Error generating script: {e}")
+            print(f"Error generating script: {e}")
             raise
